@@ -3,11 +3,17 @@ vaishnavi-s-portfolio
 This portfolio is a modern and responsive web application built with cutting-edge technologies:
 
 HTML: The structure of the portfolio is crafted using clean and semantic HTML, ensuring accessibility and ease of maintenance.
+
 Tailwind CSS: Styling is powered by Tailwind CSS, a utility-first CSS framework, enabling a highly customizable and visually appealing design with minimal effort.
+
 JavaScript: The dynamic behavior and interactivity of the portfolio are managed using JavaScript, enhancing user engagement.
+
 Responsive Design: The portfolio is fully responsive, ensuring optimal viewing and functionality across all devices, from desktops to smartphones.
+
 Dark Mode: It features a dark mode option, providing users with a visually comfortable experience in low-light environments.
+
 Real-Time Form Submission: The contact form is integrated with Web3 Forms, offering seamless and real-time inquiry submissions for better communication.
+
 This combination of technologies ensures that the portfolio is fast, functional, and user-friendly, reflecting a professional and modern web presence.
 
 
